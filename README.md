@@ -8,9 +8,7 @@ This project focuses on analyzing historical data and building a forecasting mod
 
 To identify patterns in historical data and generate predictions that can support data-driven decision-making.
 
-## Dataset
 
-(Describe your dataset here — e.g. sales data, case data, survey trends, etc.)
 
 ## Features
 
@@ -23,7 +21,7 @@ To identify patterns in historical data and generate predictions that can suppor
 
 * Python
 * Pandas
-* Matplotlib / Seaborn (if used)
+* Matplotlib / Seaborn 
 
 ## Key Insights
 
@@ -39,7 +37,6 @@ To identify patterns in historical data and generate predictions that can suppor
 
 ## Visualizations
 
-(Add your graphs here — this is VERY important)
 
 ## Future Improvements
 
