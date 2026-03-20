@@ -26,7 +26,7 @@ To identify patterns in historical data and generate predictions that can suppor
 ## Key Insights
 
 * Identified trends over time
-* Observed seasonal patterns (if applicable)
+* Observed seasonal patterns 
 * Generated predictions for future periods
 
 ## How to Run
